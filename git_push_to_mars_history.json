@@ -1,0 +1,98 @@
+[
+  {
+    "timestamp": "2026-11-15 19:26",
+    "scenario": "Mars Atmospheric & Subsurface Explorer",
+    "orbit": "MARS",
+    "cost": 308.2,
+    "science": 11.9430720000002,
+    "total": 649
+  },
+  {
+    "timestamp": "2026-11-15 18:52",
+    "scenario": "Sandbox Mode (Open Systems Lab)",
+    "orbit": "SSO",
+    "cost": 287.2,
+    "science": 138.02345999999514,
+    "total": 850
+  },
+  {
+    "timestamp": "2026-11-15 18:51",
+    "scenario": "Earth Climate & Albedo Observatory",
+    "orbit": "LEO",
+    "cost": 348.2,
+    "science": 59.093631187500904,
+    "total": 664
+  },
+  {
+    "timestamp": "2026-11-15 18:50",
+    "scenario": "Earth Climate & Albedo Observatory",
+    "orbit": "LEO",
+    "cost": 348.2,
+    "science": 21.866281125000334,
+    "total": 604
+  },
+  {
+    "timestamp": "2026-11-15 18:49",
+    "scenario": "Earth Climate & Albedo Observatory",
+    "orbit": "LEO",
+    "cost": 348.2,
+    "science": 19.01791368750032,
+    "total": 600
+  },
+  {
+    "timestamp": "2026-11-15 18:48",
+    "scenario": "Sandbox Mode (Open Systems Lab)",
+    "orbit": "GEO",
+    "cost": 409.2,
+    "science": 82.07757000000018,
+    "total": 761
+  },
+  {
+    "timestamp": "2026-11-15 18:47",
+    "scenario": "Sandbox Mode (Open Systems Lab)",
+    "orbit": "GEO",
+    "cost": 409.2,
+    "science": 138.00172499999485,
+    "total": 850
+  },
+  {
+    "timestamp": "2026-11-15 18:47",
+    "scenario": "Sandbox Mode (Open Systems Lab)",
+    "orbit": "GEO",
+    "cost": 409.2,
+    "science": 138.02190749999468,
+    "total": 850
+  },
+  {
+    "timestamp": "2026-11-15 18:46",
+    "scenario": "Sandbox Mode (Open Systems Lab)",
+    "orbit": "GEO",
+    "cost": 409.2,
+    "science": 138.00172499999596,
+    "total": 850
+  },
+  {
+    "timestamp": "2026-11-15 18:46",
+    "scenario": "Sandbox Mode (Open Systems Lab)",
+    "orbit": "SSO",
+    "cost": 287.2,
+    "science": 138.0001724999958,
+    "total": 850
+  },
+  {
+    "timestamp": "2026-11-15 18:45",
+    "scenario": "Sandbox Mode (Open Systems Lab)",
+    "orbit": "SSO",
+    "cost": 287.2,
+    "science": 138.01724999999493,
+    "total": 850
+  },
+  {
+    "timestamp": "2026-11-15 18:45",
+    "scenario": "Sandbox Mode (Open Systems Lab)",
+    "orbit": "SSO",
+    "cost": 287.2,
+    "science": 138.231494999996,
+    "total": 851
+  }
+]
