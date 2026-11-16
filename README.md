@@ -1,4 +1,4 @@
-# 🚀 Git Push to Mars — Space Mission Design Game
+# 🚀 Git Push to Mars — Mission Studio
 
 ![NASA Space Apps Challenge](https://img.shields.io/badge/NASA_Space_Apps-2026_Challenge-0B3D91?style=for-the-badge&logo=nasa)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)

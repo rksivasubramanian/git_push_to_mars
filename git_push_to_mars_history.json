@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-11-15 21:35",
+    "scenario": "Sandbox Mode (Open Systems Lab)",
+    "orbit": "SSO",
+    "cost": 287.2,
+    "science": 18.182880000000043,
+    "total": 659
+  },
+  {
     "timestamp": "2026-11-15 21:02",
     "scenario": "Sandbox Mode (Open Systems Lab)",
     "orbit": "LEO",
@@ -85,14 +93,6 @@
     "orbit": "GEO",
     "cost": 409.2,
     "science": 138.00172499999596,
-    "total": 850
-  },
-  {
-    "timestamp": "2026-11-15 18:46",
-    "scenario": "Sandbox Mode (Open Systems Lab)",
-    "orbit": "SSO",
-    "cost": 287.2,
-    "science": 138.0001724999958,
     "total": 850
   }
 ]

@@ -4,7 +4,7 @@ TEAM: Git Push to Mars
 https://www.spaceappschallenge.org/2026/find-a-team/git-push-to-mars1/
 AUTHORS : Sivasubramanian Kalaiselvan , Shriniketh Sivasubramanian
 PROJECT: NASA Space Apps Challenge 2026 - Space Mission Design Game
-FILE: git_push_to_mars.py (Unified with working mars_live.py Flight Engine)
+FILE: gitpushtomars_missionstudio.py (Unified with working mars_live.py Flight Engine)
 CONTROLS:
   - Click [LAUNCH MISSION] or press [ENTER / SPACE / TAB] to toggle Design <-> Flight
   - Press [1, 2, 3, 4] to switch Design Tabs or Mission Control Stations
@@ -565,7 +565,7 @@ Propagate RK89Prop(GitPushSat) {{GitPushSat.ElapsedDays = {int(self.life_cfg * 3
         self.buttons.clear()
         b = self.compute_budget()
 
-        self.screen.blit(self.f_title.render("GIT PUSH TO MARS | 4-TAB MISSION DESIGN STUDIO", True, CYAN), (14, 8))
+        self.screen.blit(self.f_title.render("GIT PUSH TO MARS | 4-TAB MISSION STUDIO", True, CYAN), (14, 8))
         self.add_btn(
             pygame.Rect(390, 5, 110, 24),
             f"Mode: {'Team' if self.team_mode else 'Solo'}",
