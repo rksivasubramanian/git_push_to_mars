@@ -1,0 +1,24 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# VS Code local workspace settings
+.vscode/
+
+# Local runtime leaderboard history & exported GMAT scripts
+git_push_to_mars_history.json
+git_push_to_mars_mission.script
