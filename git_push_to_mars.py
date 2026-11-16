@@ -1,6 +1,7 @@
 """
 ===============================================================================
 TEAM: Git Push to Mars
+AUTHORS : Sivasubramanian Kalaiselvan , Shriniketh Sivasubramanian
 PROJECT: NASA Space Apps Challenge 2026 - Space Mission Design Game
 FILE: git_push_to_mars.py (Unified with working mars_live.py Flight Engine)
 CONTROLS:
