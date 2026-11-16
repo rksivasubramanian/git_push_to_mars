@@ -19,6 +19,7 @@ __pycache__/
 # VS Code local workspace settings
 .vscode/
 
-# Local runtime leaderboard history & exported GMAT scripts
+# Local runtime leaderboard history, exported GMAT scripts & legacy temp files
 git_push_to_mars_history.json
 git_push_to_mars_mission.script
+gitpushtomars_missionstudio.py

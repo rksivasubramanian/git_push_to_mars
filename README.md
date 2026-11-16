@@ -40,7 +40,7 @@ If cloning from GitHub:
 git clone [https://github.com/](https://github.com/)<your-username>/git-push-to-mars.git
 cd git-push-to-mars
 ```
-Or if starting in a local folder containing `git_push_to_mars.py`:
+Or if starting in a local folder containing `gitpushtomars_missionstudio.py`:
 ```bash
 cd /path/to/your/project-folder
 ```
@@ -70,7 +70,7 @@ python -m pip install pygame
 
 ### Step 5: Run the Game
 ```bash
-python git_push_to_mars.py
+python gitpushtomars_missionstudio.py
 ```
 
 ---
@@ -159,7 +159,7 @@ Up to four participants can collaborate on the same mission by dividing responsi
 ## 7. Troubleshooting (macOS, VS Code & Retina Displays)
 
 * **`ModuleNotFoundError: No module named 'pygame'` when clicking the VS Code Play Button:**
-  * VS Code is running macOS's global `/usr/bin/python3` instead of your `.venv`. Press **`Cmd + Shift + P`** in VS Code, type **`Python: Select Interpreter`**, and select **`./.venv/bin/python`**, or run `./.venv/bin/python git_push_to_mars.py` directly in the terminal.
+  * VS Code is running macOS's global `/usr/bin/python3` instead of your `.venv`. Press **`Cmd + Shift + P`** in VS Code, type **`Python: Select Interpreter`**, and select **`./.venv/bin/python`**, or run `./.venv/bin/python gitpushtomars_missionstudio.py` directly in the terminal.
 * **VS Code runs an older cached version of the file:**
   * Press **`Cmd + S`** to save the active tab (ensure the solid dot next to the filename disappears), or enable **File $\rightarrow$ Auto Save** in the top menu bar.
 * **Window size or mouse alignment on MacBook Retina screens:**
