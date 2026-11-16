@@ -1,5 +1,13 @@
 [
   {
+    "timestamp": "2026-11-15 19:51",
+    "scenario": "Sandbox Mode (Open Systems Lab)",
+    "orbit": "LUNAR",
+    "cost": 188.2,
+    "science": 19.015020000000014,
+    "total": 660
+  },
+  {
     "timestamp": "2026-11-15 19:26",
     "scenario": "Mars Atmospheric & Subsurface Explorer",
     "orbit": "MARS",
@@ -86,13 +94,5 @@
     "cost": 287.2,
     "science": 138.01724999999493,
     "total": 850
-  },
-  {
-    "timestamp": "2026-11-15 18:45",
-    "scenario": "Sandbox Mode (Open Systems Lab)",
-    "orbit": "SSO",
-    "cost": 287.2,
-    "science": 138.231494999996,
-    "total": 851
   }
 ]
